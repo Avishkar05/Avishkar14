@@ -1,2 +1,2 @@
-# Avishkar14
+# FDS lab practical
 Programming skill
