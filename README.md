@@ -1,5 +1,4 @@
-<h1>
-饾悋饾悽饾悽 饾惌饾悺饾悶饾惈饾悶 饾悷饾悶饾惀饾惀饾惃饾惏 <饾殟饾殠饾殶饾殠饾殨饾殬饾殭饾殠饾殯饾殰/> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
+<h1>Hii</h1> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
 </h1>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(鉂わ笍)=>{+await+Full+Stack+Web+Developer+};int+馃捇+{+return+Competitive+Programmer+};using+馃檱鈥嶁檪锔�+public+class+Indie+Blockchain+Developer{}"/>
