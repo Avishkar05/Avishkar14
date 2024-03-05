@@ -1,7 +1,7 @@
 <h1>Hii</h1> <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" /><br />
 </h1>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async(鉂わ笍)=>{+await+Full+Stack+Web+Developer+};int+馃捇+{+return+Competitive+Programmer+};using+馃檱鈥嶁檪锔�+public+class+Indie+Blockchain+Developer{}"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=00F706FF&width=600&lines=async()=>{+await+Full+Stack+Web+Developer+};int++{+return+Competitive+Programmer+};using+�+public+class+Indie+Blockchain+Developer{}"/>
 
 <div align="center" width="50">
 <img src="https://github.com/CERTIFIED2003/py-game/blob/master/images/my.gif" alt="Welcome!" width="300"/>
@@ -12,13 +12,13 @@
 
 
 ---
-<h1> Hi, I'm Dipak ! <img src="./about.gif" height="48px">
+<h1> Hi, I'm Avishkar <img src="./about.gif" height="48px">
   
 <img align="centre" alt="Wave" width="150" src = "https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/1df14577-4844-4c68-a612-286e47a5dfdd" width = 70px></h1>
-- 馃懇鈥嶐煉� I am a Computer Science and Engineering Student
-- 馃搳 I am an aspiring learner
-- 馃敪 I am exploring BlockChain, App Developent and Web Development
-- 馃帹 I like creative designing
+-  I am a Computer Science and Engineering Student
+-  I am an aspiring learner
+-  I am exploring BlockChain, App Developent and Web Development
+-  I like creative designing
 ---
 
 <img align="right" alt="Coding" width="500" src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/3928c779-ca3a-4e88-a7b6-b243ad12f4e5">
@@ -96,4 +96,4 @@
 
 ![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
 
-</div>
+</div>                        
