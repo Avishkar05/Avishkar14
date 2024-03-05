@@ -8,7 +8,7 @@
 </div>
 
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-# ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Dipak_Sarvade](https://github.com/dipaksarvade) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
+# ![Hello(1)](https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/9c4a5675-77ad-47d0-a18d-c09bdfacaa48)[Avishkar_zende](https://github.com/Avishkar05) <img src="https://github.com/VishwajeetLondhe/VishwajeetLondhe/assets/126247101/319dd45d-ce6b-4e0c-ba93-335a045db06f" width="30px" height="30px" />
 
 
 ---
