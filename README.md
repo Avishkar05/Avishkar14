@@ -42,8 +42,6 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="55" alt="rust logo"  />
-  <img width="28" />
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="215">
 </div>
 
@@ -70,30 +68,5 @@
   <a href="https://www.hackerrank.com/VishwajeetLondhe" target="_blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=24292E&logoColor=green&labelColor=&style=for-the-badge" height="40" alt="HackerRank logo"  />
   </a>
- 
-  ---
-
-  # My GitHub Profile And Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=VishwajeetLondhe)
-
-![Streak](https://streak-stats.demolab.com?user=Vishwajeet-Londhe)
-
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vishwajeet-Londhe&hide=contribs,issues&show_icons=true&hide_border=true" alt="Vishwajeet's github stats" /></a>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vishwajeet-Londhe&layout=compact&hide_border=true" />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Vishwajeet-Londhe/count.svg" />
-</p>
-
-<i>Random dev joke for you!</i><br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" />
-
-<!-- ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vishwajeet-Londhe&bg_color=0d1117&color=ffffff&line=00F706FF&point=f9fafa&area=true&hide_border=true) -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishwajeet-Londhe&bg_color=ffffff&color=000000&line=ff4df3&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Error](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=100&pause=10&color=00F706FF&center=true&vCenter=true&height=40&lines=Error+404+Not+Found)
 
 </div>                        
